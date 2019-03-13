@@ -17,6 +17,7 @@ public class A {
     public void setA(int A){
         this.A = A;
         ClassB.setB(A);
+        ClassB.BB = "String";
     }
     
 }

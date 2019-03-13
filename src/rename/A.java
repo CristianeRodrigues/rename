@@ -12,9 +12,11 @@ package rename;
 public class A {
     int A;
     String AA;
+    B ClassB;
     
     public void setA(int A){
         this.A = A;
+        ClassB.setB(A);
     }
     
 }

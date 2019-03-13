@@ -12,7 +12,7 @@ package rename;
 public class B {
 
     int B;
-    String BB;
+    float BB;
 
     public void setB(int B) {
         this.B = B;

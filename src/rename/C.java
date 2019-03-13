@@ -14,7 +14,5 @@ public class C {
     int C;
     String CC;
 
-    public void setC(int C) {
-        this.C = C;
-    }
+    
 }

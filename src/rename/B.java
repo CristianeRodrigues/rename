@@ -13,7 +13,8 @@ public class B {
 
     int B;
     float BB;
-
+    int variable = 10;
+    
     public void setB(int B) {
         this.B = B;
         System.out.println("Class B");

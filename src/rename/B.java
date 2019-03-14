@@ -18,5 +18,6 @@ public class B {
     public void setB(int B) {
         this.B = B;
         System.out.println("Class B");
+        
     }
 }

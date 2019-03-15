@@ -18,6 +18,7 @@ public class A {
         this.A = A;
         ClassB.setB(A);
         ClassB.BB = "String";
+        ClassB.setB(A);
     }
     
 }

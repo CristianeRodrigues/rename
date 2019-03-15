@@ -9,7 +9,7 @@ package rename;
  *
  * @author Cristiane
  */
-public class B {
+public class Beta {
 
     int B;
     float BB;
